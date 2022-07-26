@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffhometourspro
-- 👀 I’m interested in ios code for core motion apps
-- 🌱 I’m currently learning core motion
-- 💞️ I’m looking to collaborate on core motion
+- 👀 I’m interested in iOS code for CoreMotion apps
+- 🌱 I’m currently learning CoreMotion
+- 💞️ I’m looking to collaborate on CoreMotion
 - 📫 How to reach me jeff@hometourspro.com
 
 <!---
